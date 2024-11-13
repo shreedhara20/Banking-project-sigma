@@ -1,4 +1,5 @@
 void run{
  System.out.println("i am running");
   System.out.println("i am drinking");
+ System.out.println("i am uhguig");
 }
